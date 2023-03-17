@@ -15,5 +15,3 @@
   
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=Siddharth-2382&theme=react-dark&hide_border=true) -->
 <br>
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
