@@ -6,7 +6,7 @@
 &emsp;🚀 Problem Solving with Python
   <br />&emsp;🚀 Artificial Intelligence - ML/DL
 <br />&emsp;🚀 Web Development
-<br /><h3>🟡 Statistics:</h3>
+<br /><br /><h3>🟡 Statistics:</h3>
 
 <div style="align: center">
   <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Siddharth-2382&theme=radical&show_icons=true" />
