@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Movaliya</h1>
 
-<h3 align="center">A passionate Python & Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 ---
 
