@@ -10,15 +10,15 @@
 
 <img align="right" src="https://i.pinimg.com/564x/f7/a6/27/f7a6276644c0588b7dfdea6722ae95d1.jpg" alt="ria-monga" height="300" />
 
-- 🔭 I’m currently working on [Spotify Dashboard](https://github.com/Siddharth-2382/Spotify-Dashboard-CLIENT)
+- 🔭 I’m currently working on [Pizza King](https://github.com/Siddharth-2382/Pizza-King)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Machine learning & Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://siddharth-movaliya.vercel.app/](https://siddharth-movaliya.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://siddharth-movaliya.vercel.app/)
 
-- 💬 Ask me about **Flask, Bootstrap, Scikit-learn**
+- 💬 Ask me about **Flask/Django/Node-js, React, Bootstrap, Scikit-learn**
 
 - 📫 How to reach me **siddraj1992@gmail.com**
 
