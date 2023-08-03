@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://siddharth-movaliya.vercel.app/)
 
-- 💬 Ask me about **Flask/Django/Node-js, React, Bootstrap, Scikit-learn**
+- 💬 Ask me about **Flask/Django/Node-js, React, Bootstrap, Scikit-learn/Tensorflow**
 
 - 📫 How to reach me **siddraj1992@gmail.com**
 
