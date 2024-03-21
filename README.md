@@ -10,7 +10,7 @@
 
 <img align="right" src="https://i.pinimg.com/564x/f7/a6/27/f7a6276644c0588b7dfdea6722ae95d1.jpg" alt="ria-monga" height="300" />
 
-- 🔭 I’m currently working on [BREWDIT](https://github.com/Siddharth-2382/Brewdit)
+- 🔭 I’m currently working on [Jaayedaad](https://github.com/jaayedaad/jaayedaad)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
