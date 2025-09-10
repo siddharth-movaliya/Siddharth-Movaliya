@@ -32,6 +32,6 @@
 <h3>📊 GitHub Stats:</h3>
 
 <div style="align: center">
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Siddharth-2382&theme=radical&show_icons=true" />
-  <img width="49%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-2382&theme=radical&show_icons=true" />
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Siddharth-Movaliya&theme=radical&show_icons=true" />
+  <img width="49%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-Movaliya&theme=radical&show_icons=true" />
 </div>
