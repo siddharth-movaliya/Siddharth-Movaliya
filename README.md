@@ -19,11 +19,11 @@
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://siddharth-movaliya.vercel.app/) -->
 
-- 📫 How to reach me **siddraj1992@gmail.com**
+- 📫 How to reach me **contact@siddharthmovaliya.com**
 
 <h3>🌐 Socials:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharth_2382) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharth_2382) <a href="https://siddharth-movaliya.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=flat" style="vertical-align:center" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharth_2382) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharth_2382) <a href="https://siddharthmovaliya.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=flat" style="vertical-align:center" /></a>
 
 <h3 align="left">💻 Tech Stack:</h3>
 
